@@ -1,9 +1,4 @@
 {
-    "version": 2,
-    "functions": {
-    "api/laughs.py": {
-      "runtime": "python3.8"
-    }
-  }
+    "version": 2
 }
   
